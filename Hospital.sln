@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital", "Hospital\Hospital.csproj", "{4145649C-52D9-4DF1-BF31-90CBCE56FE7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHospital", "WebHospital\WebHospital.csproj", "{373ACB7D-808A-43D8-855A-9DBCB714186D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalEF", "HospitalEF\HospitalEF.csproj", "{9C541976-CB34-4215-95DF-0A425498E54B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalWF", "HospitalWF\HospitalWF.csproj", "{F726C3BA-B9A7-429C-969B-BE2C6E0CC008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4145649C-52D9-4DF1-BF31-90CBCE56FE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4145649C-52D9-4DF1-BF31-90CBCE56FE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4145649C-52D9-4DF1-BF31-90CBCE56FE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4145649C-52D9-4DF1-BF31-90CBCE56FE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373ACB7D-808A-43D8-855A-9DBCB714186D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373ACB7D-808A-43D8-855A-9DBCB714186D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373ACB7D-808A-43D8-855A-9DBCB714186D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373ACB7D-808A-43D8-855A-9DBCB714186D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C541976-CB34-4215-95DF-0A425498E54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C541976-CB34-4215-95DF-0A425498E54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C541976-CB34-4215-95DF-0A425498E54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C541976-CB34-4215-95DF-0A425498E54B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F726C3BA-B9A7-429C-969B-BE2C6E0CC008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F726C3BA-B9A7-429C-969B-BE2C6E0CC008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F726C3BA-B9A7-429C-969B-BE2C6E0CC008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F726C3BA-B9A7-429C-969B-BE2C6E0CC008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45
+	EndGlobalSection
+EndGlobal
