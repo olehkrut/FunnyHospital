@@ -58,3 +58,32 @@ D:\projects VS\SoftServe\FunnyHospital\WebHospital\bin\Newtonsoft.Json.xml
 D:\projects VS\SoftServe\FunnyHospital\WebHospital\obj\Debug\WebHospital.csprojResolveAssemblyReference.cache
 D:\projects VS\SoftServe\FunnyHospital\WebHospital\obj\Debug\WebHospital.dll
 D:\projects VS\SoftServe\FunnyHospital\WebHospital\obj\Debug\WebHospital.pdb
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\WebHospital.dll.config
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\WebHospital.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\WebHospital.pdb
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\Antlr3.Runtime.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\EntityFramework.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\EntityFramework.SqlServer.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\Newtonsoft.Json.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.Helpers.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.Mvc.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.Optimization.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.Razor.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.WebPages.Deployment.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.WebPages.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.WebPages.Razor.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\WebGrease.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\EntityFramework.xml
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\EntityFramework.SqlServer.xml
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.Helpers.xml
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.Mvc.xml
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.Optimization.xml
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.Razor.xml
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.WebPages.xml
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.WebPages.Deployment.xml
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\System.Web.WebPages.Razor.xml
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\bin\Newtonsoft.Json.xml
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\obj\Debug\WebHospital.csprojResolveAssemblyReference.cache
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\obj\Debug\WebHospital.dll
+C:\Users\okrutii\Documents\FunnyHospital\WebHospital\obj\Debug\WebHospital.pdb

@@ -15,6 +15,7 @@ namespace WebHospital
         {
             Patients = new List<Patient>();
         }
+
         public override string ToString()
         {
             string info = string.Format("ID = {0}, First Name = {1}, Last Name = {2}, Qualification = {3}", 
