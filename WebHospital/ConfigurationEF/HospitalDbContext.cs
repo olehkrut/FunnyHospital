@@ -9,7 +9,7 @@ using WebHospital.Migrations;
 
 namespace WebHospital.ConfigurationEF
 {
-    class HospitalDbContext : DbContext
+    public class HospitalDbContext : DbContext
     {
         public DbSet<Doctor> Doctors { get; set; }
         public DbSet<Patient> Patients { get; set; }
@@ -17,20 +17,20 @@ namespace WebHospital.ConfigurationEF
         {
         }
 
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-            //modelBuilder.Configurations.Add<Doctor>(new DoctorEntityConfiguration());
-            //modelBuilder.Configurations.Add<Patient>(new PatientEntityConfiguration());
-			Database.SetInitializer(new MigrateDatabaseToLatestVersion<HospitalDbContext, Configuration>());
+		//protected override void OnModelCreating(DbModelBuilder modelBuilder)
+		//{
+		//	//modelBuilder.Configurations.Add<Doctor>(new DoctorEntityConfiguration());
+		//	//modelBuilder.Configurations.Add<Patient>(new PatientEntityConfiguration());
+		//	//Database.SetInitializer(new MigrateDatabaseToLatestVersion<HospitalDbContext, Configuration>());
 
-            //modelBuilder.Entity<Doctor>().HasMany<Patient>(d => d.Patients)
-            //    .WithRequired(p => p.Doctor)
-            //    .HasForeignKey<int>(p => p.DoctorId)
-            //    .WillCascadeOnDelete(true);
-            //modelBuilder.Entity<Patient>().HasRequired<Doctor>(p => p.Doctor)
-            //    .WithMany(d => d.Patients)
-            //    .HasForeignKey<int>(p => p.DoctorId)
-            //    .WillCascadeOnDelete(true);
-        }
+		//	//modelBuilder.Entity<Doctor>().HasMany<Patient>(d => d.Patients)
+		//	//    .WithRequired(p => p.Doctor)
+		//	//    .HasForeignKey<int>(p => p.DoctorId)
+		//	//    .WillCascadeOnDelete(true);
+		//	//modelBuilder.Entity<Patient>().HasRequired<Doctor>(p => p.Doctor)
+		//	//    .WithMany(d => d.Patients)
+		//	//    .HasForeignKey<int>(p => p.DoctorId)
+		//	//    .WillCascadeOnDelete(true);
+		//}
     }
 }

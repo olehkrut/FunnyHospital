@@ -119,6 +119,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="ConfigurationEF\DbInitializer.cs" />
     <Compile Include="ConfigurationEF\DoctorEntityConfiguration.cs" />
     <Compile Include="ConfigurationEF\HospitalDbContext.cs" />
     <Compile Include="ConfigurationEF\PatientEntityConfiguration.cs" />
